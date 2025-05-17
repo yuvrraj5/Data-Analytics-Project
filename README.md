@@ -122,7 +122,8 @@ Code Repository:
 
 GitHub link with clean, commented code
 
-10. Future Enhancements
+10.Future Enhancements
+
 Implement automated monthly reporting
 
 Add machine learning for demand forecasting
@@ -130,4 +131,5 @@ Add machine learning for demand forecasting
 Develop interactive Tableau/Power BI dashboard
 
 11. Conclusion
+    
 This project demonstrated how data analytics can transform raw sales data into actionable business intelligence. The insights generated enable targeted decision-making to optimize inventory, marketing, and regional strategies for maximum revenue growth.
