@@ -1,5 +1,6 @@
 # Data-Analytics-Project
 1. Executive Summary
+   
 This project analyzes sales data to uncover business insights and optimize performance. Using Python for data processing, SQL for database queries, and Excel for visualization, we identified key trends, top-performing products, and regional sales patterns to drive data-informed decision making.
 
 Key Highlights:
@@ -11,6 +12,7 @@ Identified 30% revenue contribution from top product
 Recommended strategies to boost underperforming regions by 15-20%
 
 2. Project Objectives
+   
 Analyze sales trends across products, regions, and time periods
 
 Identify high-value customers and products
@@ -20,6 +22,7 @@ Evaluate regional performance gaps
 Provide actionable recommendations for sales optimization
 
 3. Tools and Technologies
+   
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 
 SQL (PostgreSQL)
@@ -39,6 +42,7 @@ OrderID, Date, Product, Quantity
 Price, CustomerID, Region
 
 4.2 Data Processing Pipeline
+
 SQL Extraction:
 
 sql
@@ -61,7 +65,9 @@ Created interactive dashboards
 Built pivot tables for regional analysis
 
 5. Key Findings
+   
 5.1 Product Performance
+
 Top 3 products contributed 45% of total revenue
 
 Seasonal spikes observed in December (+40% vs average)
@@ -86,6 +92,7 @@ Regional Performance Heatmap
 Product Revenue Pie Chart
 
 7. Recommendations
+   
 Inventory Optimization:
 
 Increase stock for top 3 products during peak seasons
@@ -101,11 +108,12 @@ Pricing Strategy:
 Bundle underperforming products with best-sellers
 
 8. Challenges & Solutions
+
 Challenge	Solution
 Missing customer data	Used median imputation
 Slow SQL queries	Added proper indexing
 Data inconsistency	Implemented validation rules
-9. Project Deliverables
+10. Project Deliverables
 Technical Documentation:
 
 Jupyter Notebook with full analysis
